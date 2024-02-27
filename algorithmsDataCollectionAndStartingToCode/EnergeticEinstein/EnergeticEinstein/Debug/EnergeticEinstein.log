@@ -1,3 +1,0 @@
-﻿  main.c
-D:\Dropbox\Coursera Comp Think\1 Algorithms\Module 4 STEM Computations\Lesson 1 STEM Computations\Exercise 6 Energetic Einstein\EnergeticEinstein\EnergeticEinstein\main.c(25,16): warning C4305:  'function': truncation from 'int' to 'float'
-  EnergeticEinstein.vcxproj -> D:\Dropbox\Coursera Comp Think\1 Algorithms\Module 4 STEM Computations\Lesson 1 STEM Computations\Exercise 6 Energetic Einstein\EnergeticEinstein\Debug\EnergeticEinstein.exe
